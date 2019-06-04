@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_DbConnection", "Ex_DbConnection.csproj", "{08B36F57-30C7-418D-8072-285B5A35C669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_DbConnectionTest", "..\Ex_DbConnectionTest\Ex_DbConnectionTest.csproj", "{A8368EEF-79D6-4197-866A-3410FA6CB3C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B36F57-30C7-418D-8072-285B5A35C669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B36F57-30C7-418D-8072-285B5A35C669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B36F57-30C7-418D-8072-285B5A35C669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B36F57-30C7-418D-8072-285B5A35C669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8368EEF-79D6-4197-866A-3410FA6CB3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8368EEF-79D6-4197-866A-3410FA6CB3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8368EEF-79D6-4197-866A-3410FA6CB3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8368EEF-79D6-4197-866A-3410FA6CB3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {120532D7-4184-432D-BA88-94CECD8A38FF}
+	EndGlobalSection
+EndGlobal
