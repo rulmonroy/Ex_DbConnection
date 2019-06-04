@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_DbConnection", "Ex_DbConnection.csproj", "{08B36F57-30C7-418D-8072-285B5A35C669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_DbConnectionTest", "..\Ex_DbConnectionTest\Ex_DbConnectionTest.csproj", "{A8368EEF-79D6-4197-866A-3410FA6CB3C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_DbConnectionTest", "Ex_DbConnectionTest\Ex_DbConnectionTest.csproj", "{A8368EEF-79D6-4197-866A-3410FA6CB3C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
